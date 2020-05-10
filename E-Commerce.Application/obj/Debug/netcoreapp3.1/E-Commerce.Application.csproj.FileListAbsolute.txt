@@ -1,0 +1,9 @@
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Application\bin\Debug\netcoreapp3.1\E-Commerce.Application.deps.json
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Application\bin\Debug\netcoreapp3.1\E-Commerce.Application.dll
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Application\bin\Debug\netcoreapp3.1\E-Commerce.Application.pdb
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Application\obj\Debug\netcoreapp3.1\E-Commerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Application\obj\Debug\netcoreapp3.1\E-Commerce.Application.AssemblyInfoInputs.cache
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Application\obj\Debug\netcoreapp3.1\E-Commerce.Application.AssemblyInfo.cs
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Application\obj\Debug\netcoreapp3.1\E-Commerce.Application.dll
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Application\obj\Debug\netcoreapp3.1\E-Commerce.Application.pdb
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Application\obj\Debug\netcoreapp3.1\E-Commerce.Application.csprojAssemblyReference.cache

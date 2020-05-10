@@ -1,0 +1,15 @@
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\bin\Debug\netcoreapp3.1\E-Commerce.Infra.Data.deps.json
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\bin\Debug\netcoreapp3.1\E-Commerce.Infra.Data.runtimeconfig.json
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\bin\Debug\netcoreapp3.1\E-Commerce.Infra.Data.runtimeconfig.dev.json
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\bin\Debug\netcoreapp3.1\E-Commerce.Infra.Data.dll
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\bin\Debug\netcoreapp3.1\E-Commerce.Infra.Data.pdb
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\bin\Debug\netcoreapp3.1\E-Commerce.Domain.dll
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\bin\Debug\netcoreapp3.1\E-Commerce.Domain.pdb
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\obj\Debug\netcoreapp3.1\E-Commerce.Infra.Data.csprojAssemblyReference.cache
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\obj\Debug\netcoreapp3.1\E-Commerce.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\obj\Debug\netcoreapp3.1\E-Commerce.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\obj\Debug\netcoreapp3.1\E-Commerce.Infra.Data.AssemblyInfo.cs
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\obj\Debug\netcoreapp3.1\E-Commerce.Infra.Data.csproj.CopyComplete
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\obj\Debug\netcoreapp3.1\E-Commerce.Infra.Data.dll
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\obj\Debug\netcoreapp3.1\E-Commerce.Infra.Data.pdb
+C:\Users\w.gontijo\source\repos\E-Commerce\E-Commerce.Infra.Data\obj\Debug\netcoreapp3.1\E-Commerce.Infra.Data.genruntimeconfig.cache
